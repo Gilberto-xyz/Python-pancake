@@ -1,0 +1,2 @@
+longitud = len("")
+print(longitud)
